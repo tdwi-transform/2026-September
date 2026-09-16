@@ -1,0 +1,134 @@
+Data Quality for AI - Index of Web Links
+
+I found **110 unique web-link entries**, including visible URLs, bare domains, and embedded hyperlink targets. The PowerPoint was not modified.
+
+| Slide | Location | URL |
+|---:|---|---|
+| 4 | Notes | https://search.worldcat.org/title/1416952306 |
+| 7 | Notes | https://search.worldcat.org/title/1380380484 |
+| 8 | Notes | https://search.worldcat.org/title/1535587030 |
+| 10 | Notes | https://en.wikipedia.org/wiki/List_of_hydroelectric_power_stations_in_the_United_States |
+| 10 | Notes | https://semiwiki.com/forum/threads/how-to-build-a-20-billion-semiconductor-fab.20155/ |
+| 10 | Notes | https://tinyurl.com/aws-100b |
+| 10 | Notes | https://tinyurl.com/nvidia-logo-jpg |
+| 10 | Notes | https://www.energy.gov/em/articles/special-report-details-worlds-largest-ai-data-center-portsmouth-site |
+| 10 | Notes | https://www.google.com/finance/quote/NVDA:NASDAQ |
+| 10 | Notes | https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html |
+| 10 | Notes | https://www.nytimes.com/2026/06/25/realestate/where-are-the-most-data-centers-planned.html |
+| 10 | Notes | https://www.theguardian.com/us-news/2025/jun/28/mark-zuckerberg-ai-list |
+| 11 | Notes | https://en.wikipedia.org/wiki/List_of_large_language_models |
+| 11 | Notes | https://huggingface.co/models |
+| 11 | Notes | https://www.linkedin.com/posts/eordax_llms-ai-machinelearning-activity-7325788055221452802-y5ue/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABYjbYBIvhTZyT-OiEQitvJqfKiJ3t0vpY |
+| 12 | Notes | https://alphafold.ebi.ac.uk/ |
+| 12 | Notes | https://erictopol.substack.com/p/all-eyes-on-medical-ai |
+| 12 | Notes | https://everycure.org/ |
+| 12 | Notes | https://search.worldcat.org/title/1090283676 |
+| 12 | Notes | https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2022.907452/full |
+
+| 12 | Notes | https://www.lindushealth.com/blog/the-revolutionary-impact-of-alphafold-on-drug-discovery-decoding-the-mystery-of-protein-folding |
+
+| 12 | Notes | https://www.medrxiv.org/content/10.1101/2023.09.12.23295381v1 |
+| 12 | Notes | https://www.nature.com/articles/s41586-021-03819-2 |
+| 12 | Notes | https://www.nytimes.com/2025/03/20/well/ai-drug-repurposing.html |
+| 12 | Notes | https://www.pnas.org/doi/10.1073/pnas.2315002121 |
+| 13 | Notes | https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/ |
+| 14 | Notes | https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/ |
+| 14 | Notes | https://en.wikipedia.org/wiki/2020_United_Kingdom_school_exam_grading_controversy |
+| 14 | Notes | https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/ |
+| 14 | Notes | https://www.technologyreview.com/2018/10/10/139858/amazon-ditched-ai-recruitment-software-because-it-was-biased-against-women/ |
+| 15 | Notes | https://incidentdatabase.ai/cite/1044/ |
+
+| 16 | Notes | https://www.datasciencecentral.com/why-did-ai-tools-fail-to-help-much-with-detecting-covid-and-is/ |
+
+
+| 16 | Notes | https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/ |
+| 17 | Notes | https://time.com/article/2026/07/24/openai-hugging-face-attack/ |
+| 17 | Notes | https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals |
+| 18 | Notes | https://en.wikipedia.org/wiki/ChatGPT |
+| 18 | Notes | https://incidentdatabase.ai/ |
+| 18 | Notes | https://research.google/pubs/attention-is-all-you-need/ |
+| 18 | Notes | https://www.cnn.com/2026/08/05/tech/meta-ai-hacking |
+| 18 | Notes | https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html |
+| 18 | Notes | https://www.nytimes.com/video/opinion/100000011091564/the-openai-hugging-face-hack-explained.html |
+| 18 | Notes | https://www.youtube.com/watch?v=ZizzRtptUDE |
+| 21 | Notes | https://commons.wikimedia.org/wiki/File:K-means_convergence.gif |
+| 21 | Notes | https://creativecommons.org/licenses/by-sa/4.0/deed.en |
+| 22 | Notes | https://en.wikipedia.org/wiki/Linear_regression |
+| 22 | Notes | https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg |
+| 22 | Notes | https://www.geeksforgeeks.org/machine-learning/house-price-prediction-using-machine-learning-in-python/ |
+| 23 | Notes | https://towardsdatascience.com/word2vec-explained-49c52b4ccb71/ |
+| 24 | Notes | https://en.wikipedia.org/wiki/Deep_learning |
+| 24 | Notes | https://parallelr.com/2016/02/13/r-deep-neural-network-from-scratch/ |
+| 24 | Notes | https://www.datacamp.com/tutorial/introduction-to-deep-neural-networks |
+
+
+
+| 25 | Slide | https://playground.tensorflow.org/ |
+| 25 | Notes | https://playground.tensorflow.org/ |
+| 27 | Notes | https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai/ |
+| 27 | Notes | https://blogs.nvidia.com/wp-content/uploads/2023/12/1000x-AI-inferrence-gain-in-10-years-672x380.jpg |
+| 28 | Notes | https://arxiv.org/pdf/1409.0575 |
+| 28 | Notes | https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf |
+| 28 | Notes | https://www.image-net.org/index.php |
+| 28 | Notes | https://www.image-net.org/static_files/index_files/logo.jpg |
+
+
+| 28 | Notes | https://www.saagie.com/wp-content/uploads/2017/11/Capture-de%CC%81cran-2020-08-21-a%CC%80-15.34.12.png |
+
+
+| 29 | Notes | https://deepmind.google/discover/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology/ |
+| 29 | Notes | https://lh3.googleusercontent.com/GgOuel2ukyAKNq6BY0DC5K1VSzymOU52GaWRdrWthA2-wuWGAgCoVKZn-r0aJd7K157qdfFVoWPGF2vz2CyKt_HHTd310n556Qw_B64VUmlfxhLZ=w1232-rw |
+| 29 | Notes | https://www.csail.mit.edu/news/mit-releases-breakthrough-protein-binding-affinity-model-expanding-role-ai-drug-discovery |
+| 29 | Notes | https://www.nature.com/articles/s41586-024-07487-w |
+| 29 | Notes | https://www.rbg.mit.edu/ |
+| 30 | Notes | https://en.wikipedia.org/wiki/Resolution_by_Proxy |
+| 30 | Notes | https://proteopedia.org/wiki/index.php/Resolution |
+| 30 | Notes | https://www.rcsb.org/stats/summary |
+| 31 | Notes | https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/ |
+| 33 | Notes | https://doi.org/10.3390/make3010004 |
+| 33 | Notes | https://search.worldcat.org/title/1464669778 |
+| 35 | Notes | https://en.wikipedia.org/wiki/ROUGE_(metric) |
+| 35 | Notes | https://google.github.io/adk-docs/evaluate/ |
+| 38 | Notes | https://weaviate.io/ebooks/advanced-rag-techniques |
+| 39 | Notes | https://landing.ai/blog/tips-for-a-data-centric-ai-approach |
+| 39 | Notes | https://spectrum.ieee.org/andrew-ng-data-centric-ai |
+| 39 | Notes | https://www.youtube.com/watch?v=TU6u_T-s68Y |
+| 40 | Slide | Deeplearning.AI |
+
+
+
+| 40 | Slide | http://deeplearning.ai |
+| 40 | Notes | Deeplearning.AI |
+| 40 | Notes | https://dcai.csail.mit.edu/ |
+| 40 | Notes | https://github.com/dcai-course |
+| 40 | Notes | https://https-deeplearning-ai.github.io/data-centric-comp/ |
+| 40 | Notes | https://www.kaggle.com/ |
+| 40 | Notes | https://www.kaggle.com/code/alexisbcook/machine-learning-competitions/data |
+| 40 | Notes | https://www.kaggle.com/code/steubk/our-journey-into-the-data-centric-ai-competition |
+| 40 | Notes | https://www.kaggle.com/competitions/data-centric-land-cover-classification-challenge-2 |
+| 40 | Notes | https://www.kaggle.com/competitions/playground-series-s3e21 |
+| 40 | Notes | https://www.kaggle.com/discussions/general/303620 |
+
+| 41 | Notes | https://cleanlab.ai/one-pager/ |
+
+
+| 41 | Notes | https://dcai.csail.mit.edu/2024/label-errors/ |
+| 41 | Notes | https://dcai.csail.mit.edu/2024/label-errors/label-errors.pdf |
+| 41 | Notes | https://youtu.be/dWXyu2e4yfk |
+| 42 | Notes | https://landing.ai/videos/how-a-data-centric-approach-drives-reliability |
+| 42 | Notes | https://search.worldcat.org/title/993697506 |
+| 42 | Notes | https://www.linkedin.com/pulse/ai-ethics-dont-start-fancy-frameworks-metadata-julia-bardmesser-bfvrf/ |
+| 43 | Notes | https://cloud.google.com/blog/products/ai-machine-learning/rag-with-databases-on-google-cloud |
+| 43 | Notes | https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=152091 |
+| 43 | Notes | https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=152091 |
+| 44 | Notes | https://cloud.google.com/blog/products/ai-machine-learning/rag-with-databases-on-google-cloud |
+| 44 | Notes | https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=152091 |
+| 44 | Notes | https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=152091 |
+| 45 | Notes | https://weaviate.io/ebooks/advanced-rag-techniques |
+| 46 | Notes | https://landing.ai/blog/tips-for-a-data-centric-ai-approach |
+| 46 | Notes | https://www.youtube.com/watch?v=TU6u_T-s68Y |
+| 47 | Notes | https://arxiv.org/abs/2501.18741 |
+| 47 | Notes | https://search.worldcat.org/title/1162606643 |
+| 48 | Notes | https://github.com/mostly-ai |
+| 48 | Notes | https://mostly.ai/what-is-synthetic-data |
+| 50 | Slide | https://www.linkedin.com/in/datamaven/ |
